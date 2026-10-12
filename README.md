@@ -14,6 +14,9 @@ Aşağıda bu depo içerisinde yer alan algoritmaların ve sistemlerin bir liste
   Yığın (Stack) veri yapısının özelliklerini (LIFO) kullanarak, bir Kuyruk (Queue) yapısının (FIFO - First In First Out) nasıl simüle edilebileceğini gösteren veri yapısı implementasyonudur.
 * **`stack_with_queue.c`:** 
   Kuyruk (Queue) veri yapısının özelliklerini kullanarak, bir Yığın (Stack) yapısının (LIFO - Last In First Out) simüle edilmesini sağlayan yapısal bir dönüşüm algoritmasıdır.
+* **`snakeGame.c`:**
+  Kuyruk(Queue) veri yapısını kullanarak bir yılanın kontrol edildiği ve elma yiyerek boyunu uzattığımız fakat kendi kuyruğunu ısırırsa ya da duvara çarparsa biten terminal-based Yılan Oyunudur. 
+
 
 ## 🛠️ Kurulum ve Çalıştırma
 
