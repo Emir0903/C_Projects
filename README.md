@@ -16,7 +16,8 @@ Aşağıda bu depo içerisinde yer alan algoritmaların ve sistemlerin bir liste
   Kuyruk (Queue) veri yapısının özelliklerini kullanarak, bir Yığın (Stack) yapısının (LIFO - Last In First Out) simüle edilmesini sağlayan yapısal bir dönüşüm algoritmasıdır.
 * **`snakeGame.c`:**
   Kuyruk (Queue) veri yapısını kullanarak bir yılanın kontrol edildiği ve elma yiyerek boyunu uzattığımız fakat kendi kuyruğunu ısırırsa ya da duvara çarparsa biten terminal-based Yılan Oyunudur. 
-
+* **`hanoi.c`:**
+  Hanoi Kulelerinin Recursion ile çözümü ve Call Stack ile her adımdaki işlemin yazdırılmasını sağlar.
 
 ## 🛠️ Kurulum ve Çalıştırma
 
